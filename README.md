@@ -10,3 +10,8 @@ Infinite scroll is a web design feature where new content automatically loads as
 # Code URL
 
 Code: https://codesandbox.io/p/devbox/infinite-zmy5ny
+
+## 2. Real time score
+
+# Code URL
+https://github.com/hasmuddinansari/socket.io/tree/master
